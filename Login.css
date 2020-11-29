@@ -1,0 +1,71 @@
+
+    ul{
+        list-style-type: none;
+        border:auto #b1c3ff00;
+        background-color: lightblue;
+        overflow: auto;
+        padding: 0%;
+        margin:auto;
+
+        
+    }
+    h1{
+        text-align: center; 
+        color:rgb(245, 159, 138);  
+        text-transform:capitalize;
+        /*background-color: blanchedalmond ; */
+        font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+        }
+    li{
+        float: left;
+    }
+
+    a{
+        text-decoration: none;
+        color: blueviolet;
+
+        
+    }
+
+    li a {
+        display: block;
+        color: #666;
+        text-align: center;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+       
+        
+    }
+
+    li a:hover{
+        background-color: lightyellow;
+    }
+
+
+    .nav-right{
+        float: right;
+    }
+
+
+    div{
+        margin: auto;
+  width: fit-content;
+  border: 10px double rgb(247, 12, 4);
+  padding: 10px;
+  text-align: center;
+  border-color: rgb(0, 0, 0);
+  background-color:rgb(252, 252, 252) ;
+}
+body {
+    background-image: url('black-sand-dunes-2387793.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  background-size:cover ;
+  }
+  
+
+
